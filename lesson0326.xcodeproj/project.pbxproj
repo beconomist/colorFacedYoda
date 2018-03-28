@@ -13,6 +13,7 @@
 		399B95B220692A2B005CA27B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 399B95B120692A2B005CA27B /* Assets.xcassets */; };
 		399B95B520692A2B005CA27B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399B95B320692A2B005CA27B /* LaunchScreen.storyboard */; };
 		399B95C020692A2B005CA27B /* lesson0326Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399B95BF20692A2B005CA27B /* lesson0326Tests.swift */; };
+		399B95CB2069300A005CA27B /* ColorFaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399B95CA2069300A005CA27B /* ColorFaceController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		399B95BB20692A2B005CA27B /* lesson0326Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lesson0326Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		399B95BF20692A2B005CA27B /* lesson0326Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lesson0326Tests.swift; sourceTree = "<group>"; };
 		399B95C120692A2B005CA27B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		399B95CA2069300A005CA27B /* ColorFaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorFaceController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				399B95AA20692A2B005CA27B /* AppDelegate.swift */,
 				399B95AC20692A2B005CA27B /* ViewController.swift */,
 				399B95AE20692A2B005CA27B /* Main.storyboard */,
+				399B95CA2069300A005CA27B /* ColorFaceController.swift */,
 				399B95B120692A2B005CA27B /* Assets.xcassets */,
 				399B95B320692A2B005CA27B /* LaunchScreen.storyboard */,
 				399B95B620692A2B005CA27B /* Info.plist */,
@@ -201,6 +204,7 @@
 			files = (
 				399B95AD20692A2B005CA27B /* ViewController.swift in Sources */,
 				399B95AB20692A2B005CA27B /* AppDelegate.swift in Sources */,
+				399B95CB2069300A005CA27B /* ColorFaceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
